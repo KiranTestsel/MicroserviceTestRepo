@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="APITesting" verbose="1" >
+  <test name="PerfTesting" >
+    <classes>
+       <class name="com.perftesting.PerfTesting.PerfTestingApplicationTests">
+       </class>
+    </classes>
+  </test>
+</suite>

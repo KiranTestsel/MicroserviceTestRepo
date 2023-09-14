@@ -1,0 +1,5 @@
+com\perftesting\PerfTesting\PerfTestingApplication.class
+com\perftesting\PerfTesting\repository\SubjectRepository.class
+com\perftesting\PerfTesting\service\SubjectService.class
+com\perftesting\PerfTesting\controller\SubjectController.class
+com\perftesting\PerfTesting\bean\Subject.class
